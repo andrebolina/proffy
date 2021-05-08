@@ -39,7 +39,6 @@
     ]
   },
   "devDependencies": {
-    "@types/react-router-dom": "^5.1.5",
-    "react-dev-utils": "^11.0.4"
+    "@types/react-router-dom": "^5.1.5"
   }
 }
